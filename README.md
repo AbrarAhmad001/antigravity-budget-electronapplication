@@ -25,7 +25,7 @@
 The easiest way to use Antigravity Budget is by running the standalone Windows application.
 
 ### 1. Installation
-- Download the `Antigravity Budget Setup.exe` from [the latest release](https://drive.google.com/file/d/1sx9XCR3fSGx7vD9dgkU0x3vat8ZKFXyy/view?usp=sharing).
+- Download the `Antigravity Budget Setup.exe` from the latest release section on this page.
 - Run the installer. The app will install and open automatically.
 
 ### 2. Initial Configuration
@@ -71,6 +71,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Abrar Ahmad** - [@AbrarAhmad001](https://github.com/AbrarAhmad001)
 
 Project Link: [https://github.com/AbrarAhmad001/antigravity-budget](https://github.com/AbrarAhmad001/antigravity-budget)
+
 
 
 
