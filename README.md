@@ -43,10 +43,10 @@ When you first launch the app, you'll be greeted with a **Setup Screen**. You wi
 
 #### C. Google Sheet ID
 1. Create a new Google Sheet.
-2. Copy the ID from the URL: `docs.google.com/spreadsheets/d/`**`YOUR_SHEET_ID_HERE`**`/edit`.
+2. Copy the ID from the URL: `docs.google.com/spreadsheets/d/`**`YOUR_SHEET_ID_HERE`**
 3. Paste it into the app.
 
-#### D. Google Service Account credentials
+#### D. Google Service Account credentials | [Tutorial Click Here](https://youtu.be/of4hLHK44oo?si=JZXlq3gElg3xs5TN)
 1. Go to [Google Cloud Console](https://console.cloud.google.com/).
 2. Create a project and enable the **Google Sheets API** and **Google Drive API**.
 3. Create a **Service Account** and generate a **JSON Key**.
@@ -71,6 +71,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Abrar Ahmad** - [@AbrarAhmad001](https://github.com/AbrarAhmad001)
 
 Project Link: [https://github.com/AbrarAhmad001/antigravity-budget](https://github.com/AbrarAhmad001/antigravity-budget)
+
 
 
 
