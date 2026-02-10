@@ -16,8 +16,8 @@
 - 🤖 **Custom Reasoning Model Insersion Option (Openrouter.ai)**: Users can use their own available reasoning models they have API for.
 - 📊 **Dynamic Dashboard**: Real-time analytics, monthly summaries, and visual distribution of spending.
 - 📅 **Google Sheets Backend User Links**: Your data stays in *your* hands. All transactions are synced directly to a private Google Sheet.
-- 🎯 **Budget Management Settint Option**: Set monthly targets per category and track progress with visual alerts.
-- 📁 **Savings Tracking**: Track spending from specific savings funds or "Vaults" to see the impact on your net worth.
+- 🎯 **Budget Management Setting Option**: Set monthly targets per category and track progress with visual alerts.
+- 📁 **Special Savings Tracking**: Track spending from specific savings funds or "Vaults" to see the impact on your net worth.
 ---
 
 ## 🚀 Desktop Application Setup 
@@ -71,5 +71,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Abrar Ahmad** - [@AbrarAhmad001](https://github.com/AbrarAhmad001)
 
 Project Link: [https://github.com/AbrarAhmad001/antigravity-budget](https://github.com/AbrarAhmad001/antigravity-budget)
+
 
 
